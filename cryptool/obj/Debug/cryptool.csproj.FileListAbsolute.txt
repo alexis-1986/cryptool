@@ -1,0 +1,14 @@
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Debug\cryptool.exe.config
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Debug\cryptool.exe
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Debug\cryptool.pdb
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.csprojResolveAssemblyReference.cache
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.Properties.Resources.resources
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.csproj.GenerateResource.Cache
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.csproj.CoreCompileInputs.cache
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.exe
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.pdb
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.FormMain.resources
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Debug\cryptool.exe.manifest
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Debug\cryptool.application
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.exe.manifest
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Debug\cryptool.application

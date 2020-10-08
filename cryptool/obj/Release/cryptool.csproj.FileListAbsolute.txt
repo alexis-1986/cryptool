@@ -1,0 +1,14 @@
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Release\cryptool.exe.config
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Release\cryptool.exe.manifest
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Release\cryptool.application
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Release\cryptool.exe
+C:\Users\aechard\source\repos\cryptool\cryptool\bin\Release\cryptool.pdb
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.FormMain.resources
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.Properties.Resources.resources
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.csproj.GenerateResource.Cache
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.csproj.CoreCompileInputs.cache
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.exe.manifest
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.application
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.exe
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.pdb
+C:\Users\aechard\source\repos\cryptool\cryptool\obj\Release\cryptool.csprojResolveAssemblyReference.cache
