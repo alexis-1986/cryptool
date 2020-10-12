@@ -5,7 +5,7 @@ A c# winForm application to encrypt a list of credentials. The logins, passwords
   * A key file (key.txt) containing the key used for encryption and required for decryption
  
  To retrieve the information the user needs the application and the 2 files.
- The encryption algorithm is not suitable for industrial !!
+ The encryption algorithm is not suitable for industrial use but illustrates some encryption and decryption mechanisms.
 
 ![Crypt](https://user-images.githubusercontent.com/65492080/95744849-5541c980-0c94-11eb-8e73-606b96e7fea2.PNG)
 
